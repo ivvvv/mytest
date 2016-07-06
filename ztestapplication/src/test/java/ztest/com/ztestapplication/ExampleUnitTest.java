@@ -1,4 +1,4 @@
-package ztest.com.ztest;
+package ztest.com.ztestapplication;
 
 import org.junit.Test;
 

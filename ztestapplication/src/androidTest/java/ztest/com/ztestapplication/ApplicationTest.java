@@ -1,4 +1,4 @@
-package ztest.com.ztest;
+package ztest.com.ztestapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
