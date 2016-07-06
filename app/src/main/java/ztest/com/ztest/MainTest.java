@@ -9,5 +9,6 @@ public class MainTest extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_test);
+        System.out.println("this is a test project for personal");
     }
 }
