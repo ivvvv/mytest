@@ -9,6 +9,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println("this is a personal test");
+        System.out.println("this is a personal test !");
+        System.out.println("current version is 0.0.2 !");
     }
 }
