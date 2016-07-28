@@ -10,6 +10,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("this is a personal test");
-        System.out.println("test in main branch  !");
+        System.out.println("test in 0.0.3 branch  !");
     }
 }
